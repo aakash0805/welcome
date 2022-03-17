@@ -11,7 +11,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Now this is My Subdomain, Thsnk You Clubhouse.
+# Now this is My Subdomain, Thank You Clubhouse.
 ## Header 2
 ### Header 3
 
